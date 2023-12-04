@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AniFun</string>
+    <string name="home">home</string>
+    <string name="Schedule">Schedule</string>
+    <string name="Chat">Chat</string>
+    <string name="RankList">RankList</string>
+    <string name="Personal">Personal</string>
+    <string name="notification_title">AniFun正在播放</string>
+</resources>
